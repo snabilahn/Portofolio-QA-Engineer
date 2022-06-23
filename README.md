@@ -1,6 +1,6 @@
 # Portofolio Software Testing
 
-Markdown ini merupakan isi dari beerapa hasil kerja saya dalam software testing.
+Markdown ini merupakan isi dari beberapa hasil kerja saya dalam software testing.
 
 ## Test Case Fitur Cart pada Website Sociolla
 
