@@ -12,6 +12,5 @@ Sociolla merupakan situs belanja yang bergerak dibidang kecantikan.
     - [Screen Recording](https://drive.google.com/file/d/13ZosXZV7rzeZorWZDlIrJnbbDAcitbjG/view?usp=sharing)
 
 - Bugs Report
-  - Beberapa bug yang ditemukan pada fungsionalitas cart dan dilakukan report menggunakan Jira:
-    - [Bugs Report 1](https://drive.google.com/file/d/1ZAEmGE_nVvXAj_NtI-EX3NADDnWZyC5r/view?usp=sharing)
-    - [Bugs Report 2](https://drive.google.com/file/d/11YWRNn8zT4nPD8YQQtcVUeExi-ghwd32/view?usp=sharing)
+  - Bug yang ditemukan pada fungsionalitas cart dan dilakukan report menggunakan Jira:
+    - [Bugs Report 1](https://drive.google.com/file/d/11YWRNn8zT4nPD8YQQtcVUeExi-ghwd32/view?usp=sharing)
