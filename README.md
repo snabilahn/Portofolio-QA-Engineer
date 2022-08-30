@@ -13,4 +13,14 @@ Sociolla is Indonesia's e-commerce that's provide beauty products.
 
 - Bugs Report
   - Bugs found in cart functionality and reported at Jira:
-    - [Bugs Report 1](https://drive.google.com/file/d/11YWRNn8zT4nPD8YQQtcVUeExi-ghwd32/view?usp=sharing)
+    - [Bugs Report](https://drive.google.com/file/d/11YWRNn8zT4nPD8YQQtcVUeExi-ghwd32/view?usp=sharing)
+
+## Test Case Tokopedia Website
+
+Tokopedia is well-known Indonesia's e-commerce. 
+- Test Case
+  - Test Case to check register, login, search, cart and payment feature from Tokopedia website. Test case can be access via [This Google Sheets document](https://docs.google.com/spreadsheets/d/1-PPV60C8FFmVSIQsKW3Neqps3REPDjUq6c3AwG6uDUA/edit?usp=sharing) (test case written in Bahasa Indonesia)
+
+## Bugs Report MyAppventure Website
+
+MyAppventure is a dummy website 
