@@ -12,5 +12,5 @@ Sociolla is Indonesia's e-commerce that's provide beauty products.
     - [Screen Recording](https://drive.google.com/file/d/13ZosXZV7rzeZorWZDlIrJnbbDAcitbjG/view?usp=sharing)
 
 - Bugs Report
-  - Bug yang ditemukan pada fungsionalitas cart dan dilakukan report menggunakan Jira:
+  - Bugs found in cart functionality and reported at Jira:
     - [Bugs Report 1](https://drive.google.com/file/d/11YWRNn8zT4nPD8YQQtcVUeExi-ghwd32/view?usp=sharing)
