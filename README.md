@@ -1,13 +1,13 @@
 # Portofolio Software Testing
 
-Markdown ini merupakan isi dari beberapa hasil kerja saya dalam software testing.
+This markdown contains my portofolio about software testing.
 
-## Test Case Fitur Cart pada Website Sociolla
+## Test Case Cart Feature at Sociolla Website
 
-Sociolla merupakan situs belanja yang bergerak dibidang kecantikan.
+Sociolla is Indonesia's e-commerce that's provide beauty products. 
 - Test Case
-  - Test Case untuk mengecek cart pada website sociolla dapat berjalan dengan baik. Test case dapat diakses melalui [Google Sheets dokumen ini](https://docs.google.com/spreadsheets/d/1KUYDSU7LX_qasGzJkQhKDt3oguEEj34o/edit?usp=sharing&ouid=115495345052079247353&rtpof=true&sd=true)
-  - Screenshot dan screen record ketika terdapat bugs pada aplikasi untuk mendokumentasi bugs tersebut. Berikut merupakan beberapa screenshot dan screen recording bugs dari aplikasi:
+  - Test Case to check cart feature from Sociolla website is running properly or not. Test case can be access via [This Google Sheets document](https://docs.google.com/spreadsheets/d/1KUYDSU7LX_qasGzJkQhKDt3oguEEj34o/edit?usp=sharing&ouid=115495345052079247353&rtpof=true&sd=true) (test case written in Bahasa Indonesia)
+  - Screenshots and screen records when there are bugs in the application to document these bugs. Here are some screenshots and screen recording bugs from the application:
     - [Screenshot](https://drive.google.com/file/d/15EPKhl-p_58AAD5gu7MIs0BMWpo8twWB/view?usp=sharing)
     - [Screen Recording](https://drive.google.com/file/d/13ZosXZV7rzeZorWZDlIrJnbbDAcitbjG/view?usp=sharing)
 
