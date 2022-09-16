@@ -34,4 +34,4 @@ MyAppventure is a dummy website, an online platform for nature lovers community 
 Petstore API is a sample API that simulates a pet shop management server. You can access the documentation of Petstore API v2 from this swagger link https://petstore.swagger.io/#/
 
 - API test using Postman
-  - You can access the collection of API test from [here] (https://www.postman.com/sitinabilahn/workspace/sitinabilahn-s-api-testing-portofolio/collection/9924693-41d9ca5f-6ea8-477f-927a-6123ab3197b6?action=share&creator=9924693) 
+  - You can access the collection of API test from [here](https://www.postman.com/sitinabilahn/workspace/sitinabilahn-s-api-testing-portofolio/collection/9924693-41d9ca5f-6ea8-477f-927a-6123ab3197b6?action=share&creator=9924693)
